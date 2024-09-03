@@ -1,0 +1,8 @@
+
+body{
+    background-image: url('./assets/hero1.webp');
+    background-size: cover;
+    background-color: black;
+    background-position: fixed;
+    background-attachment: fixed;
+  }
